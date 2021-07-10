@@ -1,0 +1,38 @@
+{
+  "name": "amharic-lorem-ipsum",
+  "displayName": "Amharic Lorem Ipsum",
+  "description": "Amharic Lorem Ipsum text filler",
+  "version": "1.0.0",
+  "publisher": "Nabil-Mohammed",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "https://user-images.githubusercontent.com/45761185/125168529-a85a9580-e1ae-11eb-82cc-2168ff0935ca.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptvue",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

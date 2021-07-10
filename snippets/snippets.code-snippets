@@ -1,0 +1,18 @@
+{
+    "Amharic Lorem Ipsum | One Line":{
+        "prefix": "lorem-amharic-oneline",
+        "body":[
+                "ይህ የአማርኛ ጽሑፍ ነው ፡፡ ይህንን ቅጥያ ለማንኛውም ፕሮጀክት መጠቀሙን ይቀጥሉ ፣ እባክዎ አስተያየት ካለዎት ያሳውቁኝ፡፡"
+        ],
+        "description": "Generating One Line of Amharic Text"
+        
+    },
+    "Amharic Lorem Ipsum | Paragraph":{
+        "prefix": "lorem-amharic-paragraph",
+        "body":[
+                "ይህ የአማርኛ ጽሑፍ ነው ፡፡ ይህንን ቅጥያ ለማንኛውም ፕሮጀክት መጠቀሙን ይቀጥሉ ፣ እባክዎ አስተያየት ካለዎት ያሳውቁኝ ይህ የአማርኛ ጽሑፍ ነው ፡፡ ይህንን ቅጥያ ለማንኛውም ፕሮጀክት መጠቀሙን ይቀጥሉ ፣ እባክዎ አስተያየት ካለዎት ያሳውቁኝ ይህ የአማርኛ ጽሑፍ ነው ፡፡ ይህንን ቅጥያ ለማንኛውም ፕሮጀክት መጠቀሙን ይቀጥሉ ፣ እባክዎ አስተያየት ካለዎት ያሳውቁኝ"
+        ],
+        "description": "Generating a paragraph of Amharic Text"
+        
+    },
+}
